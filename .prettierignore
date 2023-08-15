@@ -1,0 +1,9 @@
+# Remix builds
+/build
+/public/build
+
+# Config files
+/.*/
+
+# Package manager
+*lock.json
